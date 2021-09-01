@@ -3,17 +3,17 @@ Simple Graphics Editor made in Java
 Note: This program is only avaiable in Polish language(so far).
 ## Installation
 clone all the files. Open command prompt, change directory to that, which holds all cloned files.
-'''bash
+```bash
 javac Test.java
-'''
+```
 WARNING: This action requires Java compilator. If you lack one, please install it using:
-'''bash
+```bash
 sudo apt install openjdk-11-jdk-headless
-'''
+```
 After compilation is done, in order to lanunch the program type
-'''bash
+```bash
 java Test
-'''
+```
 ## Content
 This tool allow user to draw shapes just like in well know Graphics Editos such as paint.
 So far, three shapes are allowed to be drawn (which may increase in a future): 
