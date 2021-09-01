@@ -20,6 +20,8 @@ So far, three shapes are allowed to be drawn (which may increase in a future):
 1. Rectangle
 2. Circle
 3. Triangle
+
+
 In order to draw, choose given option from drop-down menu and press "Rysowanie" button.
 After that you're able to draw your chosen shape with your mouse!
 In order to modify, press "Modyfiowanie" button. 
