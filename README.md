@@ -24,9 +24,9 @@ In order to draw, choose given option from drop-down menu and press "Rysowanie" 
 After that you're able to draw your chosen shape with your mouse!
 In order to modify, press "Modyfiowanie" button. 
 Since that, you're only able to modify shapes, drawing is not allowed.
-1. Right click allows you to change color of a given shape
-2. Pressing wheel button allows you to increase shape (decreasing not implemented yet)
-3. Pushing down left mouse button and dragging allows yout to move your shape to given destination.
+- Right click allows you to change color of a given shape
+- Pressing wheel button allows you to increase shape (decreasing not implemented yet)
+- Pushing down left mouse button and dragging allows yout to move your shape to given destination.
 
 Button "info" contains information about creator and purpouse of a program
 Button "instrukcja" contains usage information (Polish only).
